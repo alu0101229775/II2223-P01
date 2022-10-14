@@ -14,8 +14,10 @@ using UnityEngine.SceneManagement;
 public class PrintObjectsScript : MonoBehaviour {
   // Start is called before the first frame update
   void Start() {
-    GameObject go = GameObject.FindWithTag(tag);
-    Debug.Log("Game Object: " + go.name + "\nTag: " + tag);
+    Debug.Log("Game Object: " + name + "\nTag: " + tag);
+    // Another way to do it:
+    // GameObject go = GameObject.FindWithTag(tag);
+    // Debug.Log("Game Object: " + go.name + "\nTag: " + tag);
   }
 
   // Update is called once per frame
