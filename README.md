@@ -15,4 +15,4 @@ La entrega de incluir:
  1. Enlace a repositorio github con el código del script y un markdown con gif animado de la ejecución. Además de una breve descripción del trabajo.
  2. Fichero comprimido con lo que se haya subido a github.
 
-![Captura Ejecución]([https://gyazo.com/bb4f7c0c3ff8e4a065eb59b2f04de797](https://gyazo.com/bb4f7c0c3ff8e4a065eb59b2f04de797))
+![Captura Ejecución](https://gyazo.com/bb4f7c0c3ff8e4a065eb59b2f04de797))
